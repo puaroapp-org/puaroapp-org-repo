@@ -1,2 +1,2 @@
 def test():
-    secret = 'test123'
+    secret = 'test'
